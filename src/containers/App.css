@@ -7,5 +7,9 @@
 h1{
 	font-family: 'SEGA LOGO FONT';
 	font-weight: 200;
-	color: #0ccac4;
+	color: #C1ECFA;
+}
+
+p,h2{
+	font-style: italic;
 }
